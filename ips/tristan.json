@@ -145,13 +145,13 @@
   },
   {
     "Name": "SCAIE-V custom instruction interface for CVA6",
-    "URL": "https://github.com/esa-tu-darmstadt/SCAIE-V",
+    "URL": "https://github.com/esa-tu-darmstadt/SCAIE-V-2.0",
     "License": "Apache 2.0",
-    "Status": "In progress",
+    "Status": "Released",
     "Description": "SCAIE-V is a portable and scalable hardware interface for easily adding custom instructions to processors ranging from microcontrollers to application-level cores",
     "Project": "TRISTAN",
-    "WI": "WI2.4.2",
-    "Partners": "Technische Universitaet Darmstadt",
+    "WI": ["WI2.4.2", "WI2.4.3"],
+    "Partners": "TU Darmstadt",
     "Comment": "",
     "Category": "Core"
   },
