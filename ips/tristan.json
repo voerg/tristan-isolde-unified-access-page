@@ -219,7 +219,7 @@
     "Name": "CLIC",
     "URL": "https://github.com/pulp-platform/clic",
     "License": "Apache-2.0",
-    "Status": "In progress",
+    "Status": "Released",
     "Description": "Core Local Interrupt Controller (CLIC) is an interrupt controller for RISC-V cores with pre-emptive, low-latency, vectored, priority/level based interrupts.",
     "Project": "TRISTAN",
     "WI": "WI3.1.7",
