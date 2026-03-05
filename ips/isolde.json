@@ -198,7 +198,7 @@
   {
     "Project": "ISOLDE",
     "Name": "Memory bank interface",
-    "URL": "",
+    "URL": "https://bitbucket.org/fnpub/isolde/",
     "License": "Open Source",
     "Status": "",
     "Description": "TBD",
@@ -846,7 +846,7 @@
   {
     "Project": "ISOLDE",
     "Name": "AI/ML Accelerator driver",
-    "URL": "",
+    "URL": "https://bitbucket.org/fnpub/isolde/",
     "License": "Multiple",
     "Status": "",
     "Description": "TBD",
